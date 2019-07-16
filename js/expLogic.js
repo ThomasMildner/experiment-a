@@ -216,8 +216,7 @@ function injectNameToSection(section) {
 /******************************/
 
 const endOfExperiment = "The story is over. Thank you for listening and participating." +
-	"<br><br/>Clicking the link will take back to the start. You may now go back to the questionnaire." +
-	"<br><br/>Please come back for the second part of the study, this tab will stay open. Thank you!";
+	"<br><br/>Clicking the link will take back to the start. You may now go back to the questionnaire."
 
 // Check if input is valid.
 function isSubmitOK(input) {
